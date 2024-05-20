@@ -21,7 +21,7 @@ export default function Landing(){
 
                     <div className="text-container">
                         <p className="txt">
-                            Test The sugar industry in Negros Occidental is one of the most dynamic industries in the Philippine, whose richness and diversity dates back to the middle of the 19th century. What started out as insignificant cultivation of sugarcane from Negros Occidental by small-scale Filipino farmers would be dramatically transformed with the onrush of Spanish and Filipino migrant entrepreneurs, coherent to the potential stature of becoming one of the largest suppliers of sugar for native and export consumption because of the fertile soil and favorable climatic conditions in the region. 
+                            The sugar industry in Negros Occidental is one of the most dynamic industries in the Philippine, whose richness and diversity dates back to the middle of the 19th century. What started out as insignificant cultivation of sugarcane from Negros Occidental by small-scale Filipino farmers would be dramatically transformed with the onrush of Spanish and Filipino migrant entrepreneurs, coherent to the potential stature of becoming one of the largest suppliers of sugar for native and export consumption because of the fertile soil and favorable climatic conditions in the region. 
                         </p>
                     </div>
             </div>
